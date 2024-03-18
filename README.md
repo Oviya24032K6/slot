@@ -27,13 +27,14 @@ Execute the program using runserver command.
 <html>
     <title>TIME TABLE</title>
     <body>
-        <center>
-            <img src="oviya/static/logo.png" height="100" width="800">
-        </center>
+       
         <br>
         <br>
     </body>
     <head>
+    <center>
+            <img src="oviya/static/logo.png" height="100" width="800">
+        </center>
 
         <title>SLOT TIMETABLE-OVIYA P (23013207)</title>
     </head>
